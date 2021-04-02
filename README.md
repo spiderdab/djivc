@@ -11,6 +11,6 @@ I know there are several project out there to give you a GUI for ffmpeg, but non
 
 The only library needed is PyQt5. ..and of course python3..
 
-I've uploaded also an executable, which can be convenient to people not practised with python. You just have to point its path in a terminal and type:
+If you don't want to install libraries or if you are not practised with python, I've uploaded also an executable (only linux). You just have to point its path in a terminal and type:
 
 `./djivc`
