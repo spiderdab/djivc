@@ -10,3 +10,6 @@ Finally you press start and a progress bar will show you the queue convertion pr
 I know there are several project out there to give you a GUI for ffmpeg, but none of them gave me this specialized convertion, usefull if you want to edit your DJI Mini 2 4K videos into DaVinci Resolve (free linux version).
 
 The only library needed is PyQt5. ..and of course python3..
+
+![GitHub Logo](/images/DJIVC_Screenshot.png)
+Format: ![Alt Text](url)
