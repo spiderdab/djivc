@@ -12,4 +12,3 @@ I know there are several project out there to give you a GUI for ffmpeg, but non
 The only library needed is PyQt5. ..and of course python3..
 
 ![GitHub Logo](/images/DJIVC_Screenshot.png)
-Format: ![Alt Text](url)
